@@ -1,0 +1,22 @@
+
+.row[data-v-5dcd4cf8] {
+  padding-top: 40px;
+}
+img[data-v-5dcd4cf8] {
+  width: 90%;
+  float: right;
+  -webkit-box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
+          box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
+}
+.col-md-4[data-v-5dcd4cf8] {
+  position: relative;
+  top: 300px;
+}
+
+.block-top {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+i {
+  cursor: pointer !important;
+}
